@@ -1,0 +1,38 @@
+*{
+    color: aliceblue;
+}
+/* .gamingcard-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top:100px;
+
+} */
+
+
+.gamingcard-items-wrapper{
+    padding: 10px;
+    background-color:#1f2122;
+    border-radius: 20px;
+    margin: 14px;
+}
+
+/* .gamingcard-items{
+        background-color: #27292a;
+        padding: 50px;
+        max-width: auto;
+        border-radius: 20px;
+        margin-top: 20px;
+} */
+.gamingcard-items em{
+   
+    font-style: normal;
+    text-decoration: none;
+}
+
+.gamingcard-items em{
+    text-decoration: underline;
+}
+.gamingcard-items h3{
+    color: #ec6090 ;
+}

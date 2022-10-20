@@ -1,0 +1,34 @@
+
+.gamingcard-items{
+    /* display: block; */
+    display: contents;
+}
+
+.gamingcard-items ul{
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid #41454754;
+    flex-wrap: wrap;
+    /* padding:calc var((--padding_primary)/2); */
+}
+
+li img{
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+}
+
+.mainButton a{
+   text-decoration: none;
+   color: rgba(216, 72, 168, 0.719);
+   border: 2px solid rgba(216, 72, 168, 0.719);
+   border-radius: 25px;
+   padding: 16px;
+}
+
+.mainButton a:hover{
+    background-color:white ;
+    color:rgba(216, 72, 168, 0.719);
+    transition: 1s ;
+}
+

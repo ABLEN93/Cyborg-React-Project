@@ -1,0 +1,25 @@
+
+.mostpopular-wrapper{
+    background-color: #1f2122;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+   
+   
+}
+.mostpopular-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left:1vw;
+   
+}
+
+/* .mostpopular-wrapper span{
+    text-decoration: underline;
+} */
+
+.mostpopular-wrapper em{
+    font-style: normal;
+    color:  #ec6090;
+}

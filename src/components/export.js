@@ -1,0 +1,13 @@
+export {default as Home} from '../pages/Home/Home.js';
+export {default as Profile} from '../pages/Profile/Profile.js';
+export {default as Header} from '../components/header/Header.jsx';
+export {default as Container} from '../components/container/Container.jsx';
+export {default as Footer} from '../components/footer/Footer.jsx';
+export {default as Hero} from './hero/Hero';    
+export {default as Mostpopular} from './mostpopular/Mostpopular';  
+export {default as Card} from '../components/card/Card.js';   
+export {default as SectionHeader} from '../components/SectionHeader.js';  
+export {default as Gaminglibrary} from '../components/Gamainglibrary/Gaminglibrary.js'; 
+export {default as Gaminglibrarydata} from '../components/Gaminglibrarydata.js';
+export {default as Gamingcard} from '../components/gamingcard/Gamingcard.js';
+export {default as GamingData} from '../components/GamingData.js';

@@ -1,0 +1,66 @@
+.wrapper {
+  border-radius: 20px;
+  background-color: #27292a;
+  display: flex;
+  margin: 10px;
+  flex:20%;
+  flex-wrap: wrap;
+  color: aliceblue;
+  padding: 30px 15px;
+  margin-bottom: 10px;
+  
+}
+.mostpopular-img {
+  border-radius: 20px;
+  width: 216px;
+  height: 166px;
+   display: flex;
+  flex-wrap: wrap; 
+  justify-content: center;
+  
+}
+.mostpopular-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+svg path Fastar{
+  color:red;
+}
+
+.mostpopular-item-title span {
+  text-decoration: none;
+}
+
+.mostpopular-items {
+   display: flex;
+  flex-wrap: wrap;
+
+   
+}
+
+.download {
+  color: palevioletred;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  border-radius: 20px;
+}
+
+ul li {
+  list-style: none;
+}
+
+/* @media screen {
+  .card-wrapper{
+    min-width: 100px;
+  }
+  .mostpopular-img{
+    width: 80%;
+  }
+  
+} */
